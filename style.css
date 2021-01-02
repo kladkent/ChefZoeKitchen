@@ -95,6 +95,7 @@ div.featured{
   color: #ffffff;
   max-width: 800px;
   margin: auto;
+  text-align: center;
 }
 
 div.featured h1{
@@ -107,23 +108,11 @@ div.featured img{
   height: 200px;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   border-radius: 10%;
-  position: relative;
 }
 
-img.image-1{
-  left:80px;
+div.menu-card{
+  margin-bottom: 64px;
 }
-
-img.image-2{
-  top: 30px;
-  right: 100px;
-}
-
-img.image-3{
-  left: 130px;
-  bottom: 150px;
-}
-
 
 /*contact*/
 div.contact{
