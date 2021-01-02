@@ -21,8 +21,6 @@ body{
 }
 
 
-
-
 /*navbar-mobile*/
 div.navbar-mobile{
   top: 0;
@@ -36,8 +34,6 @@ div.navbar-mobile{
 
 div.navbar-mobile div{
   display: inline-block;
-  padding-right: 24px;
-  padding-left: 24px;
 } 
 
 div.logo-button img{
