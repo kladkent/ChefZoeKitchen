@@ -99,7 +99,7 @@ div.featured{
 
 div.featured h1{
   text-align: center;
-  margin-bottom: 32px;
+  margin-bottom: 64px;
 }
 
 div.featured img{
@@ -111,17 +111,17 @@ div.featured img{
 }
 
 img.image-1{
-  left: 20px;
+  left:80px;
 }
 
 img.image-2{
-  top: 50px;
+  top: 30px;
   right: 100px;
 }
 
 img.image-3{
-  left: 190px;
-  bottom: 100px;
+  left: 130px;
+  bottom: 150px;
 }
 
 
