@@ -88,6 +88,7 @@ div.about p {
 /*featured*/
 div.featured-wrapper{
   background-color: #eb418b;
+  margin-bottom: 64px;
 }
 
 div.featured{
@@ -116,12 +117,53 @@ img.image-1{
 
 img.image-2{
   top: 50px;
-  left: -100px;
+  right: 100px;
 }
 
 img.image-3{
   left: 190px;
   bottom: 100px;
+}
+
+
+/*contact*/
+div.contact{
+  max-width: 800px;
+  margin: auto;
+  margin-bottom: 64px;
+}
+
+div.contact h1{
+  color: #eb418b;
+  text-align: center;
+}
+
+div.contact ul{
+  padding: 0px;
+}
+
+div.contact li{
+  list-style-type: none;
+  color: #eb418b;
+  line-height: 1.5;
+  font-size: 18px;
+  text-align: center;
+}
+
+div.contact input, button{
+  color: #eb418b;
+  line-height: 1.5;
+  font-size: 18px;
+  display: block;
+  width: 100%;
+}
+
+/*footer*/
+div.footer{
+  padding: 64px;
+  background-color: #eb418b;
+  color: #ffffff;
+  text-align: center;
 }
 
 /* Extra small devices (phones, 600px and down) */
