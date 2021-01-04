@@ -84,35 +84,32 @@ div.about p {
 }
 
 
-/*featured*/
-div.featured-wrapper{
+/*menu*/
+div.menu {
   background-color: #eb418b;
-  margin-bottom: 64px;
+  color: #ffffff;
+  text-align: center;
+}
+
+div.menu-wrapper{
+  max-width: 800px;
+  margin: auto;
   padding: 24px;
 }
 
-div.featured{
-  color: #ffffff;
-  max-width: 800px;
-  margin: auto;
-  text-align: center;
+div.categories > div{
+  padding: 24px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  border-radius: 10px;
 }
 
-div.featured h1{
-  text-align: center;
-  margin-bottom: 64px;
-}
-
-div.featured img{
+div.food-card img {
   width: 200px;
   height: 200px;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-  border-radius: 10%;
+  border-radius: 10px;
 }
 
-div.menu-card{
-  margin-bottom: 64px;
-}
 
 /*contact*/
 div.contact{
